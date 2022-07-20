@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make a Bank Account using Dashboard button
+without data</description>
+   <name>MAC_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc5856d6-139d-4293-b95a-bf8b39e5a4c8</testCaseGuid>
+</TestCaseEntity>

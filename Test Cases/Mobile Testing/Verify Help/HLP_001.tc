@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Help content</description>
+   <name>HLP_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>726744f4-e110-48c5-9d0a-b776b453646f</testCaseGuid>
+</TestCaseEntity>

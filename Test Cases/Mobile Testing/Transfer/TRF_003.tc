@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Transfer money with Receiving Account is self</description>
+   <name>TRF_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77ed7b46-0dc2-4431-b9b9-b087907b5ce2</testCaseGuid>
+</TestCaseEntity>

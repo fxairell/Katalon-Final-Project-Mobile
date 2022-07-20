@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add Payee successfully</description>
+   <name>APY_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7940f74-6e2c-49c5-9df3-7581abf992ec</testCaseGuid>
+</TestCaseEntity>

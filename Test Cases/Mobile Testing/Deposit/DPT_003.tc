@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Deposit money without Account</description>
+   <name>DPT_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5810f77-f104-4ccb-99c9-3a965fdcab90</testCaseGuid>
+</TestCaseEntity>

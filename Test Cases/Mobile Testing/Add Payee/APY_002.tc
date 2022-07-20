@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add Payee without Payee Name</description>
+   <name>APY_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14c5e717-7716-4bbb-91f9-ab7e862d4c45</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Transfer money without Account</description>
+   <name>TRF_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0de0866b-3e58-4a1f-9235-eac22a348e2e</testCaseGuid>
+</TestCaseEntity>

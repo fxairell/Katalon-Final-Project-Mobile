@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register an account without First Name</description>
+   <name>RGS_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cbb7a4a-a74e-4cbe-a881-5271f9ccd0b2</testCaseGuid>
+</TestCaseEntity>

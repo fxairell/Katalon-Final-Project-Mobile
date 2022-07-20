@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make a Bank Account using Account Page</description>
+   <name>MAC_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44f3c1f6-09d2-4802-93f5-b9560e0dd0d8</testCaseGuid>
+</TestCaseEntity>

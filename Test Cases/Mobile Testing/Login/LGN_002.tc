@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login account successfully
+with Remember Credentials checked</description>
+   <name>LGN_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39501b5d-d4fc-4e5e-99d1-626ff83bac64</testCaseGuid>
+</TestCaseEntity>

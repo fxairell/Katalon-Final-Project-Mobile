@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pay money without Amount</description>
+   <name>PYM_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1070c49-212f-434f-8bac-bcb4e95a0942</testCaseGuid>
+</TestCaseEntity>

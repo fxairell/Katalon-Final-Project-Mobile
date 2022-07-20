@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pay money without Account</description>
+   <name>PYM_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6832500b-9cf7-485b-9fe9-664865a5dda6</testCaseGuid>
+</TestCaseEntity>
